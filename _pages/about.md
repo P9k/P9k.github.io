@@ -7,7 +7,7 @@ subtitle: <a href='https://www.hereon.de/hydrogen'>Group Leader@Helmholtz-Zentru
 
 profile:
   align: left
-  image: profil-2021.jpg
+  image: profil-2021.png
   image_circular: true # crops the image to make it circular
   address: >
     <p><b>Office address:</b></p>
